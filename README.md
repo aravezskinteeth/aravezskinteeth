@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my dotfiles repo for now.
+- 🌱 I’m currently learning Bash, R, Python, CSS and JS.
+
 <!--
 **aravezskinteeth/aravezskinteeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
