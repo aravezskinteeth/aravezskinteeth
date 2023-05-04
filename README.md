@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🧫 I'm a Biologist.
 - 🔭 I’m currently working on my dotfiles repo for now.
 - 🌱 I’m currently learning Bash, R, Python, CSS and JS.
 
